@@ -190,6 +190,11 @@
         right: 163px;
         top: 280px
     }    
+    
+       #home::before{
+        height: 105%;
+        width: 210%;
+    }
 
     .discription{
         font-size: 2.3rem;
@@ -214,6 +219,11 @@
     .first{
         font-size: 1.75rem;
     }
+    
+       #home::before{
+        height: 110%;
+        width: 225%;
+    }
 
     .discription{
         font-size: 1.6rem;
@@ -235,6 +245,11 @@
 
     .first{
         font-size: 1.75rem;
+    }
+    
+    #home::before{
+        height: 110%;
+        width: 255%;
     }
 
     .discription{
